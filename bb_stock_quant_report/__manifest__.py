@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'BB Stock quant report and extra tools',
+    'name': 'Stock Quant Report with Cost, Sale Price and Gross profit',
     'version': '1.0.1',
     'category': 'Stock',
     'icon': '/bb_stock_quant_report/static/description/icon.png',
