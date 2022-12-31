@@ -24,6 +24,7 @@ Cost is comfortable Average cost and Standard cost.
         'views/stock_quant_report_view.xml',
     ],
     'qweb': [],
+    "images": ["static/description/images/stock_quant_report.mov","static/description/images/bb_stock_ss1.png","static/description/images/bb_stock_ss2.png","static/description/images/bb_stock_ss3.png"],
     'website': 'https://www.linkedin.com/in/bayarbayasgalan-jagdal/',
     'installable': True,
     'auto_install': False,
