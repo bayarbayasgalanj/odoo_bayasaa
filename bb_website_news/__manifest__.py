@@ -7,7 +7,7 @@
     'sequence': 140,
     'website': 'https://www.linkedin.com/in/bayarbayasgalan-jagdal/',
     'author': 'Bayarbayasgalan MGL',
-    'summary': 'News',
+    'summary': 'Scrolling Annoucement and link, Attention announcements',
     'version': '1.0',
     'description': """
 Scrolling Annoucement and link
