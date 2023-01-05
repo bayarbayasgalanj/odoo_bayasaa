@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+    <t t-extend="Menu">
+        <t t-jquery=".o_main_navbar" t-operation="after">
+            <div id="bb_news_marquee" class="marquee">
+                <span></span>
+            </div>
+        </t>
+    </t>
+</templates>

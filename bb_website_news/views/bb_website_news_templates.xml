@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="assets_backend" name="account assets" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" href="/bb_website_news/static/src/css/website_news.css"/>
+            <script type="text/javascript" src="/bb_website_news/static/lib/jquery.marquee.js"/>
+            <script type="text/javascript" src="/bb_website_news/static/src/js/website_news.js"/>
+        </xpath>
+    </template>
+</odoo>

@@ -1,0 +1,15 @@
+.marquee {
+    width: 100%;
+    overflow: hidden;
+    color: red;
+    position: absolute;
+    /*z-index: 1;*/
+    /* background: transparent; */
+    border: none;
+    font-size: smaller;
+    /* background-color: #F9F9F9; */
+    margin-top: -2px;
+}
+.marquee p{
+    display: inline;    
+}
