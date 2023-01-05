@@ -23,7 +23,7 @@ Scrolling Annoucement and link
     'qweb': [
         'static/src/xml/*.xml'
     ],
-    "images": ["static/description/images/module_main_background.mp4","static/description/images/bb_ss1.png","static/description/images/bb_ss2.png","static/description/images/bb_ss3.png"],
+    "images": ["static/description/images/bb_ss1.png","static/description/images/bb_ss2.png","static/description/images/bb_ss3.png"],
     'installable': True,
     'application': True,
     'icon': '/bb_website_news/static/description/icon.png',
