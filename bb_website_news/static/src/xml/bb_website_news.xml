@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+    <t t-inherit="web.NavBar" t-inherit-mode="extension" owl="2">
+        <xpath expr="//nav" position="after">
+            <div id="bb_news_marquee" class="marquee">
+                <span></span>
+            </div>
+        </xpath>
+    </t>
+</templates>

@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+website_news_all,mn.website.news,model_bb_website_news,base.group_user,1,0,0,0
+website_news_manager,mn.website.news,model_bb_website_news,bb_website_news.group_bb_website_news_user,1,1,1,1
